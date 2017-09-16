@@ -1,7 +1,7 @@
 
 
 #### Anders Anton Hornstrup
-###### Internet cowboy, visual artist, programmer, father of two, lover of potatoes
+###### Internet indiana jones, visual artist, programmer, father of two, lover of potatoes
 ![Anders Anton Hornstrup](http://anders.supermensa.com/profileassets/anders.jpg "Anders Anton Hornstrup")    
 
 # _“Deconstructing to rediscover”_
