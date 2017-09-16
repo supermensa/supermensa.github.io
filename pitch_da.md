@@ -6,7 +6,7 @@ Hvor fører det digitale dig hen?
 Tilbage til dig selv
 ====================
 
-Mission
+Vision
 ----------
 Hvorhen styrer du dine skridt? Mod en bedre virkelighed.
 
