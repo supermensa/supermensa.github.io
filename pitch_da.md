@@ -1,13 +1,10 @@
 
-Hvor fører det digitale dig hen?
-================================
+Hvor er fører fremtidens teknologier hen?
 
 	+++
-Tilbage til dig selv
-====================
+# Tilbage til dig selv
 
-Vision
-----------
+## Vision
 Hvorhen styrer du dine skridt? Mod en bedre virkelighed.
 
 Du ser landskabet fare hurtigere og hurtigere forbi, men der er en masse du ikke ser - eller har glemt når dagen er omme.
@@ -18,25 +15,24 @@ Vores mål er at lægge digitale strategier der tillader virksomheder og organis
 
 Vi skal bygge noget folk elsker at vende tilbage til.
 
-Services
-------------
+## Services
+
 Strategi, branding, projekt styring, web services.. Vi er dit content management system.
 Vi har metoderne til at simplificere hvordan du bedst udnytter marketing, sociale medie kanaler, bruger-interaktion med mere.
 
 Ved hjælp af vågne øjne og analyser, finder vi ud af præcist hvordan det er du arbejder, hvilke data der er afgørende og hvor en hurtig indsats kan give størst effekt.
 
-Metode
--------------------
+## Metode
+
 Vores metode kalder vi 'Design Fiction' -- det er en måde der gør at vi finder nye kanter på gamle produkter, nye indgange på kendte markeder og maksimerer udbyttet af enhver digitalisering. 
 
-Kontrakt
---------
+## Kontrakt
+
 Det kræver at du tager det første skridt.
-Vi følger med
+Vi hjælper dig
 
 	+++
 
 [Kontakt os@supermensa.com](mailto:os@supermensa.com)
-Alt starter med en drøm
-==================
+# Alt starter med en drøm
 
