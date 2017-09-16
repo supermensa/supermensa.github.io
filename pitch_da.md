@@ -1,5 +1,5 @@
 
-Hvor er fører fremtidens teknologier hen?
+# Hvor fører fremtidens teknologier dig hen?
 
 	+++
 # Tilbage til dig selv
