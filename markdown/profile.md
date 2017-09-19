@@ -19,6 +19,8 @@ The problem is usually that bad habits are hard to change - and they are tied di
 
 **The reality is** that most companies are still working in the slipstream of past trends and the bad habits are getting in the way of the future.
 
+>  It's not what you've done that matters, but what keeps you going
+
 What would make me happy is to redefine what - and who - software are made for – by rethinking interfaces as both complicated configurations to what is unique to your work process, we should also treat it with the simplicity of using a hammer. I believe it is possible to enter such a magical space, where great work can happen and tools do start to adapt to _how we are working_.
 
 **To observe and prototype**
@@ -30,6 +32,8 @@ The fastest way to communicate any message to an audience, is by finding the nar
 A key issue is to build small things, prototype and test the minimal viable product. To actually get things started and build it so it works, get it off the ground and investigate while you are in the air.  
 
 This is how you see more of the terrain.
+
+> It's not what you've done that matters, but what keeps you going
 
 ## Clients
 
